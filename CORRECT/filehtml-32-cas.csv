@@ -1,0 +1,46 @@
+entity_group,word,reason,correct_label
+DISO,encéphalite,Disorder related to patient's medical history,DISO
+DISO,atrophie cérébrale,Disorder related to patient's medical history,DISO
+DISO,dysphagie,Disorder related to patient's medical history,DISO
+DISO,épilepsie,Disorder related to patient's medical history,DISO
+DISO,status epilepticus,Current medical condition,DISO
+DEVI,lorazépam,Medication administered to patient,CHEM
+DEVI,phénytoïne,Medication administered to patient,CHEM
+DEVI,lévétiracétam,Medication administered to patient,CHEM
+DEVI,clobazam,Medication administered to patient,CHEM
+DEVI,amantadine,Medication administered to patient,CHEM
+DEVI,ésoméprazole,Medication administered to patient,CHEM
+DEVI,vitamine D,Medication administered to patient,CHEM
+DEVI,calcium,Medication administered to patient,CHEM
+DEVI,propofol,Medication administered to patient,CHEM
+DEVI,norépinéphrine,Medication administered to patient,CHEM
+DEVI,pentobarbital,Medication administered to patient,CHEM
+DEVI,pipéracilline-tazobactam,Medication administered to patient,CHEM
+DEVI,ciprofloxacine,Medication administered to patient,CHEM
+DEVI,imipenem,Medication administered to patient,CHEM
+DEVI,acide valproïque,Medication administered to patient,CHEM
+GEOG,soins intensifs,Location within the hospital,GEOG
+PHEN,convulsions,Symptom exhibited by the patient,DISO
+PHEN,encéphalite,Underlying cause of patient's neurological disorders,DISO
+PHEN,atrophie cérébrale,Result of patient's prior encephalitis,DISO
+PHYS,poids,Patient's physical attribute,PHYS
+PHYS,allergie médicamenteuse,Patient's medical condition,DISO
+PHYS,jéjunostomie,Medical procedure performed on the patient,PROC
+PHYS,dose,Measurement of medication administered to the patient,PHYS
+PHYS,tension artérielle,Patient's vital sign measurement,PHYS
+PHYS,dosage sérique,Measurement of medication level in the patient's blood,PHYS
+LIVB,patiente,Living being - Patient,LIVB
+LIVB,personnel infirmier,Living being - Hospital staff,LIVB
+PROC,admission aux soins intensifs,Medical procedure performed on the patient,PROC
+PROC,dosage sérique de phénytoïne,Medical procedure performed on the patient,PROC
+PROC,prélèvement sanguin,Medical procedure performed on the patient,PROC
+PROC,dose de charge,Medical procedure performed on the patient,PROC
+PROC,gavage,Medical procedure performed on the patient,PROC
+PROC,administration par voie intraveineuse,Medical procedure performed on the patient,PROC
+PROC,dose de maintien,Medical procedure performed on the patient,PROC
+PROC,retrait du propofol,Medical procedure performed on the patient,PROC
+PROC,retrait du pentobarbital,Medical procedure performed on the patient,PROC
+PROC,diagnostic d'une pneumonie,Medical procedure performed on the patient,PROC
+PROC,remplacement de la ciprofloxacine et de la pipéracilline-tazobactam,Medical procedure performed on the patient,PROC
+PROC,ajout d'acide valproïque,Medical procedure performed on the patient,PROC
+PROC,congé de l'hôpital,Medical procedure performed on the patient,PROC

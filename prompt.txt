@@ -1,0 +1,62 @@
+Trouver les entités ci-dessous:
+
+Anatomy: ANAT
+- Anatomical structure, body location or region
+- Body part, organ or organ component, body space or junction
+- Body substance, body system, cell, cell component
+- Embryonic structure, fully formed anatomical structure, tissue
+
+Chemical and Drugs: CHEM
+- Amino Acid, Peptide or Protein, Antibiotic
+- Biologically active substance, biomedical or dental material
+- Carbohydrate, chemical, chemical viewed functionally
+- Chemical viewed structurally, clinical drug, eicosanoid
+- Element, Ion or Isotope, Enzyme, Hazardous or Poisonous Substance
+- Hormone, Immunologic Factor, Indicator, Reagent or Diagnostic Aid
+- Inorganic Chemical, Lipid
+- Neuroreactive substance or Biogenic Amine
+- Nucleic Acid, Nucleoside, or Nucleotide, Organic Chemical
+- Organophosphorus Compound, Pharmacologic substance, Receptor
+- Steroid, Vitamin
+
+
+Devices: DEVI
+- Medical device, research device
+
+
+Disorders: DISO
+- Acquired Abnormality, Anatomical abnormality
+- Cell or molecular dysfunction, congenital abnormality
+- Disease or syndrome, experimental model of disease, finding
+- Injury or Poisoning, Mental or Behavioral dysfunction
+- Neoplastic process, pathologic function, sign or symptom
+
+
+Geographic Areas: GEOG
+- Geographic Area
+
+Living Beings: LIVB
+- Age group, Alga, Amphibian, Archaeon, Bacterium
+- Bird, Family Group, Fish, Group, Human
+- Invertebrate, Mammal, Organism, Patient or Disabled Group
+- Plant, Population group, Professional or Occupational Group
+- Reptile, Rickettsia or Chamydia, Vertebrate, Virus
+
+Objects: OBJC
+- Entity, Food, Manufactured Object, Physical Object, Substance
+
+Phenomena: PHEN
+- Biologic function, environmental effect of humans
+- Human-caused Phenomen or Process, laboratory or test result
+- Organism function, Physiologic function
+
+Physiology: PHYS
+- Cell function, clinical attribute, genetic function, mental process
+- Molecular function, organ or tissue function, organism attribute
+- Organism function, physiologic function
+
+
+Procedures: PROC
+- Diagnostic procedure, educational activity, health care activity
+- Laboratory procedure, molecular biology research technique
+- Research activity, Therapeutic or Preventive procedure

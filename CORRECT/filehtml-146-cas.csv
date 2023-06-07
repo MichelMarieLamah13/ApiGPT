@@ -1,0 +1,43 @@
+entity_group,word,reason,correct_label
+PROC,rachianesthésie,Therapeutic or Preventive procedure,PROC
+PROC,hystéroscopie,Diagnostic procedure,PROC
+PROC,myomectomie,Therapeutic or Preventive procedure,PROC
+LIVB,patiente de 40 ans,"Human,Age group",LIVB
+DISO,épileptique,Acquired Abnormality,DISO
+PHEN,geste,Human-caused Phenomen or Process,PHEN
+LIVB,infirmière anesthésiste,Human,LIVB
+PHEN,introduction,Human-caused Phenomen or Process,PHEN
+OBJC,aiguille,Physical Object,OBJC
+PROC,injection,Therapeutic or Preventive procedure,PROC
+PHEN,dixième,Human-caused Phenomen or Process,PHEN
+OBJC,contenu,Physical Object,OBJC
+CHEM,ampoule de morphine,Clinical drug,CHEM
+PHEN,1mg,Laboratory or test result,PHEN
+PHEN,0.1mg,Laboratory or test result,PHEN
+LIVB,infirmière anesthésiste,Human,LIVB
+OBJC,seringue de morphine,Medical device,OBJC
+PHEN,remet,Human-caused Phenomen or Process,PHEN
+LIVB,anesthésiste,Human,LIVB
+PHEN,injecte,Human-caused Phenomen or Process,PHEN
+OBJC,ampoules,Physical Object,OBJC
+PROC,anesthésie,Therapeutic or Preventive procedure,PROC
+LIVB,infirmière anesthésiste,Human,LIVB
+CHEM,ampoule de morphine de 10mg,Clinical drug,CHEM
+PHEN,1 mg,Laboratory or test result,PHEN
+LIVB,patiente,Human,LIVB
+PHEN,dose nécessaire,Human-caused Phenomen or Process,PHEN
+PHEN,1 mg,Laboratory or test result,PHEN
+PHEN,0.1mg,Laboratory or test result,PHEN
+LIVB,infirmière,Human,LIVB
+OBJC,ampoule,Physical Object,OBJC
+OBJC,coffre,Physical Object,OBJC
+DISO,toxiques,Acquired Abnormality,DISO
+PROC,surveillance,Therapeutic or Preventive procedure,PROC
+LIVB,patiente,Human,LIVB
+PROC,soins post-interventionnels,Therapeutic or Preventive procedure,PROC
+GEOG,SSPI,Geographic Area,GEOG
+PROC,surveillance,Therapeutic or Preventive procedure,PROC
+PHEN,mettre,Human-caused Phenomen or Process,PHEN
+CHEM,NALOXONE,Clinical drug,CHEM
+LIVB,patiente,Human,LIVB
+DISO,somnolence,Symptom,DISO

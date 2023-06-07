@@ -1,0 +1,61 @@
+entity_group,word,reason,correct_label
+LIVB,patient,Living Being mentioned,LIVB
+DISO,polytoxicomanie,Disorder mentioned,DISO
+CHEM,cocaïne,Chemical mentioned,CHEM
+CHEM,ecstasy,Chemical mentioned,CHEM
+CHEM,amphétamines,Chemical mentioned,CHEM
+CHEM,cannabis,Chemical mentioned,CHEM
+DISO,éthylisme chronique,Disorder mentioned,DISO
+GEOG,urgences,Geographic Area mentioned,GEOG
+PHEN,signes cliniques,Phenomena mentioned,PHEN
+PHEN,agitation,Phenomena mentioned,PHEN
+PHEN,hallucinations auditives,Phenomena mentioned,PHEN
+PHEN,hallucinations visuelles,Phenomena mentioned,PHEN
+PHEN,propos incohérents,Phenomena mentioned,PHEN
+PHEN,anorexie,Phenomena mentioned,PHEN
+PHEN,insomnie,Phenomena mentioned,PHEN
+PHEN,céphalées modérées,Phenomena mentioned,DISO
+PHYS,plan hémodynamique,Physiology mentioned,PROC
+ANAT,fréquence cardiaque,Anatomy mentioned,ANAT
+ANAT,tension artérielle,Anatomy mentioned,ANAT
+ANAT,ECG,Anatomy mentioned,ANAT
+ANAT,pupilles,Anatomy mentioned,ANAT
+CHEM,CPK,Chemical mentioned,CHEM
+DISO,hémoglobinémie,Disorder mentioned,DISO
+CHEM,lactacidémie,Chemical mentioned,CHEM
+CHEM,gazométrie,Chemical mentioned,PROC
+CHEM,alcoolémie,Chemical mentioned,PROC
+CHEM,désoxypipradrol,Chemical mentioned,CHEM
+CHEM,oxazépam,Chemical mentioned,CHEM
+PHEN,agitation du patient,Phenomena mentioned,PHEN
+CHEM,chlorhydrate,Chemical mentioned,CHEM
+CHEM,désoxypipradrol,Chemical mentioned,CHEM
+PROC,techniques de CLHPUV-BD,Procedure mentioned,PROC
+DEVI,HP 1100,Device mentioned,DEVI
+CHEM,CPG-SM,Chemical mentioned,PROC
+DEVI,HP6890/HP5973N,Device mentioned,DEVI
+PROC,recherche large et qualitative de médicaments,Procedure mentioned,PROC
+PROC,analyse quantitative,Procedure mentioned,PROC
+CHEM,désoxypipradrol,Chemical mentioned,CHEM
+CHEM,2-DPMP,Chemical mentioned,CHEM
+CHEM,C18 H21 N,Chemical mentioned,CHEM
+CHEM,masse molaire,Chemical mentioned,CHEM
+CHEM,"251,3 g/mol,Chemical mentioned",CHEM
+PROC,analyses réalisées en CLHP-UV-BD,Procedure mentioned,PROC
+PROC,spectre du désoxypipradrol,Procedure mentioned,PROC
+PROC,analyse effectuée sur l'urine en CPG-SM,Procedure mentioned,PROC
+PROC,ion moléculaire,Procedure mentioned,CHEM
+PROC,ion diphénylméthane,Procedure mentioned,CHEM
+PROC,ion pipéridinium,Procedure mentioned,CHEM
+PROC,chromatogrammes observés en CLUHP-SM/SM,Procedure mentioned,PROC
+PROC,spectre SM,Procedure mentioned,PROC
+PROC,dosage de désoxypipradrol en CLUHPSM/SM,Procedure mentioned,PROC
+PROC,linéarité,Procedure mentioned,PROC
+PROC,répétabilité,Procedure mentioned,PROC
+PROC,fidélité intermédiaire,Procedure mentioned,PROC
+PROC,justesse,Procedure mentioned,PROC
+PROC,limite de quantification,Procedure mentioned,PROC
+ANAT,plasma,Anatomy mentioned,ANAT
+ANAT,urine,Anatomy mentioned,CHEM
+CHEM,concentration plasmatique,Chemical mentioned,CHEM
+CHEM,concentration urinaire,Chemical mentioned,CHEM

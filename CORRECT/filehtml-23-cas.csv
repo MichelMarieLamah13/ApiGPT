@@ -1,0 +1,27 @@
+entity_group,word,reason,correct_label
+DISO,atteinte neurologique,symptom of neurological disorder,DISO
+DISO,confusion,symptom of neurological disorder,DISO
+DISO,ataxie,symptom of neurological disorder,DISO
+DISO,paresthésie,symptom of neurological disorder,DISO
+DISO,céphalées,symptom of neurological disorder,DISO
+DISO,pancytopénie,abnormal blood test result,DISO
+DISO,insuffisance rénale,kidney disorder,DISO
+ANAT,clairance de la créatinine,renal function,DISO
+CHEM,créatinine,substance measured in blood test,CHEM
+CHEM,pyriméthamine,medication for toxoplasmosis,CHEM
+CHEM,acide folinique,medication used with pyriméthamine,CHEM
+CHEM,sulfadiazine,medication used with pyriméthamine,CHEM
+CHEM,ténofovir,antiretroviral medication,CHEM
+CHEM,emtricitabine,antiretroviral medication,CHEM
+CHEM,atazanavir,antiretroviral medication,CHEM
+CHEM,ritonavir,antiretroviral medication,CHEM
+CHEM,clindamycine,medication for toxoplasmosis,CHEM
+CHEM,triméthoprimesulfaméthoxazole,medication for preventing opportunistic infection,CHEM
+CHEM,dapsone,medication for preventing opportunistic infection,CHEM
+CHEM,aspartate aminotransférase,liver enzyme,CHEM
+CHEM,alanine aminotransférase,liver enzyme,CHEM
+CHEM,AST,abbreviation for aspartate aminotransférase,CHEM
+CHEM,ALT,abbreviation for alanine aminotransférase,CHEM
+PHYS,charge virale,viral load,DISO
+LIVB,VIH,human immunodeficiency virus,LIVB
+LIVB,VHC,hepatitis C virus,LIVB

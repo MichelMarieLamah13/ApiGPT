@@ -1,0 +1,53 @@
+entity_group,word,reason,correct_label
+DISO,DRS,Symptôme de douleur thoracique,DISO
+DISO,douleurs épigastriques,Symptôme de douleur abdominale,DISO
+DISO,irradiation,Symptôme de douleur radiante,DISO
+DISO,omoplate droite,Symptôme de douleur radiante,ANAT
+DISO,hypertension,Condition médicale,DISO
+CHEM,clopidogrel,Médicament prescrit,CHEM
+CHEM,rabéprazole,Médicament prescrit,CHEM
+CHEM,pantoprazole,Médicament prescrit,CHEM
+GEOG,Canada,Lieu,GEOG
+LIVB,pouls,Mesure physique,PHYS
+PHYS,radiographie pulmonaire,Procédure diagnostique,PROC
+PHYS,tension artérielle,Mesure physique,PHYS
+CHEM,hémoglobine,Analyse de laboratoire,CHEM
+CHEM,LDL,Analyse de laboratoire,CHEM
+CHEM,HDL,Analyse de laboratoire,CHEM
+CHEM,triglycérides,Analyse de laboratoire,CHEM
+CHEM,apolipoprotéines B,Analyse de laboratoire,CHEM
+CHEM,créatine kinase (CK),Analyse de laboratoire,CHEM
+CHEM,troponines T,Analyse de laboratoire,CHEM
+CHEM,protéine C réactive (CRP),Analyse de laboratoire,CHEM
+CHEM,sédimentation,Analyse de laboratoire,CHEM
+CHEM,aspartate aminotransférase (AST),Analyse de laboratoire,CHEM
+CHEM,alanine aminotransférase (ALT),Analyse de laboratoire,CHEM
+CHEM,bilirubine,Analyse de laboratoire,CHEM
+CHEM,gamma-glutamyl transférase (GGT),Analyse de laboratoire,CHEM
+CHEM,phosphatase alcaline,Analyse de laboratoire,CHEM
+CHEM,amylase,Analyse de laboratoire,CHEM
+CHEM,lipase,Analyse de laboratoire,CHEM
+CHEM,analyse utinaire,Analyse de laboratoire,PROC
+DISO,coronarographie,Procédure diagnostique,PROC
+DISO,échographie cardiaque,Procédure diagnostique,PROC
+DISO,épreuve d’effort,Procédure diagnostique,PROC
+DISO,dilatation,Procédure thérapeutique,PROC
+DISO,resténose,Condition médicale,DISO
+DISO,pressions pulmonaires,Mesure physique,DISO
+DISO,maladie valvulaire,Condition médicale,DISO
+CHEM,stimulateur cardiaque défibrillateur,Dispositif médical,OBJC
+DISO,lupus,Condition médicale,DISO
+DISO,douleurs angineuses,Symptôme de douleur thoracique,DISO
+CHEM,nitroglycérine,Médicament prescrit,CHEM
+DISO,gastroscopie,Procédure diagnostique,PROC
+DISO,échographie abdominale,Procédure diagnostique,PROC
+DISO,manomètre de l’œsophage,Dispositif médical,PROC
+CHEM,pH-métrie,Procédure diagnostique,PROC
+CHEM,dompéridone,Médicament prescrit,CHEM
+DISO,nicorandil,Médicament prescrit,CHEM
+DISO,amlodipine,Médicament prescrit,CHEM
+DISO,bisoprolol,Médicament prescrit,CHEM
+PROC,consultation,Activité de soins de santé,PROC
+GEOG,Canada,Lieu,GEOG
+DISO,infarctus,Condition médicale,DISO
+DISO,dyspnée,Symptôme de difficulté respiratoire,DISO

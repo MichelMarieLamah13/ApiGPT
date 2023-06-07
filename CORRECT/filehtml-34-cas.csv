@@ -1,0 +1,22 @@
+entity_group,word,reason,correct_label
+LIVB,patiente,Living Being,LIVB
+DISO,asthme allergique,Disorder,DISO
+DISO,leucémie aiguë lymphoblastique,Disorder,DISO
+DISO,récidive de la leucémie,Disorder,DISO
+DISO,neutropénie,Disorder,DISO
+DISO,sinusite aiguë,Disorder,DISO
+DISO,fièvre,Disorder,DISO
+CHEM,pipéracilline-tazobactam,Chemical and Drugs,CHEM
+CHEM,ciprofloxacine,Chemical and Drugs,CHEM
+CHEM,vancomycine,Chemical and Drugs,CHEM
+CHEM,daptomycine,Chemical and Drugs,CHEM
+PROC,greffe de cellules hématopoïétiques,Procedure,PROC
+PROC,traitement d'induction,Procedure,PROC
+PROC,chimiothérapie,Procedure,PROC
+PROC,analyses cytogénétiques,Procedure,PROC
+PROC,scanographie,Procedure,PROC
+PROC,dosage de vancomycine,Procedure,PROC
+DEVI,radiothérapie pancorporelle,Device,PROC
+PHEN,rémission complète,Phenomena,PHEN
+ANAT,chromosome de Philadelphie,Anatomy,ANAT
+ANAT,gène MML,Anatomy,ANAT

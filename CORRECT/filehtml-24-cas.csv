@@ -1,0 +1,45 @@
+entity_group,word,reason,correct_label
+DISO,retard de croissance intra-utérin,disorder related to pregnancy,DISO
+DISO,diabète gestationnel,disorder related to pregnancy,DISO
+DISO,HG (Hyperemesis Gravidarum),disorder related to pregnancy,DISO
+DISO,gastrite érosive,gastrointestinal disorder,DISO
+ANAT,épigastralgie,abdominal pain,DISO
+DISO,hypersalivation,abnormal salivation,DISO
+DISO,hématémèse,gastrointestinal bleeding,DISO
+DISO,céphalées,headache,DISO
+DISO,réaction extrapyramidale,adverse drug reaction,DISO
+CHEM,métoclopramide,medication,CHEM
+CHEM,diphénhydramine,medication,CHEM
+CHEM,hydroxyzine,medication,CHEM
+CHEM,doxylamine,medication,CHEM
+PROC,perfusion intraveineuse,medical procedure,PROC
+DISO,anémie,medical condition (mentioned in Table I),DISO
+DISO,alcalose métabolique,metabolic disorder (mentioned in Table I),DISO
+DISO,hypokaliémie,electrolyte imbalance (mentioned in Table I),DISO
+DISO,hyponatrémie,electrolyte imbalance (mentioned in Table I),DISO
+DISO,hypochlorémie,electrolyte imbalance (mentioned in Table I),DISO
+DISO,perturbation du bilan acido-basique,acid-base imbalance (mentioned in Table I),DISO
+DISO,hépatite médicamenteuse,drug-induced hepatitis,DISO
+DISO,thrombopénie,low platelet count (mentioned in Table I),DISO
+DISO,hypocalcémie,low calcium level (mentioned in Table I),DISO
+DISO,hypoprotéinémie,low protein level (mentioned in Table I),DISO
+DISO,hypoglycémie,low blood sugar (mentioned in Table I),DISO
+ANAT,échographie abdominale,imaging procedure,PROC
+PROC,bilan hépatique,diagnostic procedure,PROC
+CHEM,thiamine,medication,CHEM
+CHEM,ranitidine,medication,CHEM
+CHEM,pyridoxine,medication,CHEM
+CHEM,multivitamines,medication,CHEM
+CHEM,pantoprazole,medication,CHEM
+CHEM,clonidine,medication,CHEM
+CHEM,oméprazole,medication,CHEM
+CHEM,ondansétron,medication,CHEM
+CHEM,hydroxyzine,medication,CHEM
+PHEN,réhydrater,physiological function,PROC
+PHEN,évolue favorablement,physiological function,PHEN
+PHEN,tolère l'alimentation solide,physiological function,PHEN
+PHEN,bien toléré,physiological function,PHEN
+GEOG,CHU Sainte-Justine,hospital location,GEOG
+DISO,accouchement,medical event,DISO
+ANAT,petite fille,human body part,LIVB
+LIVB,Helicobacter pylori,bacterium,LIVB

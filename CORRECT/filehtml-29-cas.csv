@@ -1,0 +1,27 @@
+entity_group,word,reason,correct_label
+DISO,ostéosarcome,Disorder mentioned in the text,DISO
+ANAT,fémur,Anatomy mentioned in the text,ANAT
+CHEM,doxorubicine,Chemical and Drug mentioned in the text,CHEM
+CHEM,cisplatin,Chemical and Drug mentioned in the text,CHEM
+CHEM,méthotrexate,Chemical and Drug mentioned in the text,CHEM
+CHEM,MAP,Chemical and Drug mentioned in the text,CHEM
+CHEM,MAPIE,Chemical and Drug mentioned in the text,CHEM
+CHEM,ifosfamide,Chemical and Drug mentioned in the text,CHEM
+CHEM,étoposide,Chemical and Drug mentioned in the text,CHEM
+CHEM,diproprionate de bétaméthasone,Chemical and Drug mentioned in the text,CHEM
+CHEM,nystatin,Chemical and Drug mentioned in the text,CHEM
+DISO,dermatite de contact,Disorder mentioned in the text,DISO
+DISO,allergie,Disorder mentioned in the text,DISO
+CHEM,hydrocortisone,Chemical and Drug mentioned in the text,CHEM
+CHEM,hydroxyzine,Chemical and Drug mentioned in the text,CHEM
+CHEM,diphenhydramine,Chemical and Drug mentioned in the text,CHEM
+CHEM,méthylprednisolone,Chemical and Drug mentioned in the text,CHEM
+CHEM,ranitidine,Chemical and Drug mentioned in the text,CHEM
+CHEM,salbutamol,Chemical and Drug mentioned in the text,CHEM
+ANAT,visage,Anatomy mentioned in the text,ANAT
+CHEM,épinephrine,Chemical and Drug mentioned in the text,CHEM
+ANAT,bras,Anatomy mentioned in the text,ANAT
+CHEM,créatinine,Chemical and Drug mentioned in the text,CHEM
+ANAT,thorax,Anatomy mentioned in the text,ANAT
+CHEM,methylprednisolone,Chemical and Drug mentioned in the text,CHEM
+CHEM,diphenhydramine,Chemical and Drug mentioned in the text,CHEM

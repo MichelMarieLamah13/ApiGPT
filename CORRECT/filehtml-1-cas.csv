@@ -1,0 +1,31 @@
+entity_group,word,reason,correct_label
+ANAT,transplantation pulmonaire,Anatomy entity,PROC
+ANAT,insuffisance respiratoire chronique terminale,Anatomy entity,DISO
+CHEM,oxygénothérapie continue,Chemical and Drugs entity,PROC
+DISO,emphysème post-tabagique,Disorders entity,DISO
+DISO,dyslipidémie,Disorders entity,DISO
+DISO,hypertension artérielle,Disorders entity,DISO
+DISO,tabagisme,Disorders entity,DISO
+DISO,hypertension artérielle pulmonaire,Disorders entity,DISO
+CHEM,périndopril,Chemical and Drugs entity,CHEM
+CHEM,furosémide,Chemical and Drugs entity,CHEM
+CHEM,rifampicine,Chemical and Drugs entity,CHEM
+CHEM,isoniazide,Chemical and Drugs entity,CHEM
+ANAT,transplantation mono-pulmonaire gauche,Anatomy entity,PROC
+LIVB,donneur,Living Beings entity,LIVB
+LIVB,receveur,Living Beings entity,LIVB
+CHEM,cytomegalovirus,Chemical and Drugs entity,CHEM
+CHEM,Epstein Barr Virus,Chemical and Drugs entity,CHEM
+CHEM,toxoplasmose,Chemical and Drugs entity,CHEM
+CHEM,méthylprednisolone,Chemical and Drugs entity,CHEM
+CHEM,basiliximab,Chemical and Drugs entity,CHEM
+CHEM,interleukine-2,Chemical and Drugs entity,CHEM
+CHEM,tacrolimus,Chemical and Drugs entity,CHEM
+CHEM,mofétil mycophénolate,Chemical and Drugs entity,CHEM
+CHEM,prednisone,Chemical and Drugs entity,CHEM
+CHEM,immunoglobulines polyvalentes,Chemical and Drugs entity,CHEM
+CHEM,réaction en chaîne par polymérase,Chemical and Drugs entity,PROC
+CHEM,protéine C réactive,Chemical and Drugs entity,CHEM
+CHEM,leucocytes,Chemical and Drugs entity,CHEM
+CHEM,tacrolimus,Chemical and Drugs entity,CHEM
+CHEM,polymédication,Chemical and Drugs entity,CHEM

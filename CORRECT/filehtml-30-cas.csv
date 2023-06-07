@@ -1,0 +1,39 @@
+entity_group,word,reason,correct_label
+DISO, tumeur desmoplasique, Disorder,DISO
+DISO, métastases pulmonaires, Disorder,DISO
+DISO, hydronéphrose sévère, Disorder,DISO
+DISO, insuffisance rénale chronique modérée, Disorder,DISO
+DISO, insuffisance rénale terminale, Disorder,DISO
+DISO, syndrome myélodysplasique, Disorder,DISO
+DISO, neutropénie, Disorder,DISO
+DISO, hypertrophie gingivale, Disorder,DISO
+DISO, cellulite sous-mandibulaire, Disorder,DISO
+DISO, infection fongique, Disorder,DISO
+DISO, fièvre, Disorder,DISO
+DISO, détresse respiratoire, Disorder,DISO
+DISO, oxygénodépendance, Disorder,DISO
+DISO, crépitants bilatéraux, Disorder,DISO
+DISO, infection à Aspergillus, Disorder,DISO
+DISO, toxicité au voriconazole, Disorder,DISO
+DEVI, hémodialyse, Medical device,PROC
+DEVI, ponction de moelle, Medical device,PROC
+DEVI, biopsie médullaire, Medical device,PROC
+DEVI, biopsie gingivale, Medical device,PROC
+DEVI, lavage broncho-alvéolaire, Medical device,PROC
+OBJC, voriconazole, Object,OBJC
+PROC, chimiothérapie néoadjuvante, Procedure,PROC
+PROC, chirurgie d’exérèse, Procedure,PROC
+PROC, chimiothérapie, Procedure,PROC
+PROC, radiothérapie abdominale, Procedure,PROC
+PROC, greffe de moelle osseuse autologue, Procedure,PROC
+PROC, greffe allogénique non apparentée de sang de cordon, Procedure,PROC
+PROC, dialyses à domicile, Procedure,PROC
+PROC, traitement empirique antibiotique intraveineux, Procedure,PROC
+PROC, thérapie antifongique, Procedure,PROC
+PROC, mesure du voriconazole, Procedure,PROC
+GEOG, CHU Sainte-Justine, Geographic Area,GEOG
+LIVB, jeune homme caucasien, Human,LIVB
+LIVB, patient, Human,LIVB
+PHEN, chimérisme médullaire, Physiologic function,PHEN
+PHEN, concentration plasmatique, Physiologic function,PHEN
+PHYS, métaboliseur lent hétérozygote, Physiologic function,PHYS
