@@ -1,0 +1,17 @@
+entity_group, word, reason
+LIVB, patient, Living Being - Human
+LIVB, ans, Living Being - Human, Age group
+DISO, adénocarcinome rectal, Disorder - Neoplastic process
+PROC, amputation abdomino-périnéale, Procedure - Therapeutic or Preventive procedure
+PHEN, radiothérapie, Phenomena - Therapeutic or Preventive procedure
+PHEN, chimiothérapie adjuvantes, Phenomena - Therapeutic or Preventive procedure
+DISO, urétérohydronéphrose bilatérale, Disorder - Anatomical abnormality
+DISO, fibrose retropéritonéale post radique, Disorder - Anatomical abnormality
+DISO, insuffisance rénale, Disorder - Pathologic function
+PHEN, créatinine, Phenomena - Laboratory or test result
+DEVI, sondes double J, Device - Medical device
+PHEN, fonction rénale, Phenomena - Physiologic function
+DEVI, sondes double J trèflées, Device - Medical device
+DISO, dilatation, Disorder - Anatomical abnormality
+PHEN, suivi, Phenomena - Human-caused Phenomen or Process
+PHEN, mmol/l, Phenomena - Laboratory or test result

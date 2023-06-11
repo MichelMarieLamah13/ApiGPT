@@ -1,0 +1,42 @@
+entity_group, word, reason
+LIVB, patiente, Living Beings - Human
+LIVB, ans, Living Beings - Human, Age group
+PROC, résection, Procedures - Therapeutic or Preventive procedure
+PROC, anastomose, Procedures - Therapeutic or Preventive procedure
+PROC, radiothérapie, Procedures - Therapeutic or Preventive procedure
+DISO, insuffisance rénale obstructive, Disorders - Disease or syndrome
+PHEN, mmol/l, Phenomena - Laboratory or test result
+PHEN, créatinine, Phenomena - Laboratory or test result
+PHEN, dilatation, Phenomena - Anatomical abnormality
+OBJC, cavités pyélocalicielles, Objects - Physical Object
+PHEN, échographie, Phenomena - Diagnostic procedure
+PROC, scanner abdomino-pelvien, Procedures - Diagnostic procedure
+DISO, récidive tumorale, Disorders - Disease or syndrome
+PHEN, marqueurs tumoraux, Phenomena - Laboratory or test result
+PROC, urétéropyélographie rétrograde, Procedures - Diagnostic procedure
+DISO, sténose, Disorders - Anatomical abnormality
+OBJC, sondes double J, Objects - Medical device
+PHEN, douleurs lombaires, Phenomena - Symptom
+PHEN, insuffisance rénale, Phenomena - Disease or syndrome
+PHEN, créatinine, Phenomena - Laboratory or test result
+PHEN, dilatation, Phenomena - Anatomical abnormality
+PHEN, échographie, Phenomena - Diagnostic procedure
+PHEN, positionnement, Phenomena - Human-caused Phenomen or Process
+PHEN, sondes JJ, Phenomena - Medical device
+PHEN, fonction rénale, Phenomena - Physiologic function
+PHEN, dilatation, Phenomena - Anatomical abnormality
+OBJC, sondes urétérales simples, Objects - Medical device
+PHEN, Charrière, Phenomena - Organism attribute
+PHEN, créatinine, Phenomena - Laboratory or test result
+PHEN, dilatation, Phenomena - Anatomical abnormality
+PHEN, sonde double J tréflée, Phenomena - Medical device
+PHEN, ch, Phenomena - Organism attribute
+PHEN, cm, Phenomena - Organism attribute
+PHEN, sonde double J, Phenomena - Medical device
+PHEN, mise en place, Phenomena - Therapeutic or Preventive procedure
+PHEN, uretère, Phenomena - Anatomical abnormality
+PHEN, contrôles réguliers, Phenomena - Therapeutic or Preventive procedure
+PHEN, créatininémie, Phenomena - Laboratory or test result
+PHEN, cavités pyélo-calicielles, Phenomena - Anatomical abnormality
+PHEN, échographie, Phenomena - Diagnostic procedure
+PHEN, mois de suivi, Phenomena - Time

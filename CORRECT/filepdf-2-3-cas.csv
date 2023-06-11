@@ -1,0 +1,26 @@
+entity_group, word, reason
+LIVB, patient, Living Being - Human
+LIVB, 78 ans, Living Being - Age group
+DISO, cancer prostatique avec métastases ganglionnaires, Disorder - Disease or syndrome
+PROC, résection endoscopique prostatique, Procedure - Therapeutic or Preventive procedure
+PROC, pulpectomie, Procedure - Therapeutic or Preventive procedure
+DISO, insuffisance rénale aiguë obstructive, Disorder - Disease or syndrome
+PHEN, 330 mmol/l de créatinine, Phenomena - Laboratory or test result
+PHEN, fièvre, Phenomena - Sign or symptom
+PHEN, urétérohydronéphrose bilatérale, Phenomena - Anatomical abnormality
+PHEN, échographie, Phenomena - Diagnostic procedure
+PHEN, compression urétérale pelvienne, Phenomena - Anatomical abnormality
+PHEN, envahissement ganglionnaire iliaque massif, Phenomena - Anatomical abnormality
+PHEN, scanner abdomino-pelvien, Phenomena - Diagnostic procedure
+PROC, néphrostomie percutanée bilatérale, Procedure - Therapeutic or Preventive procedure
+PHYS, fonction rénale, Physiology - Organ or tissue function
+PHEN, température, Phenomena - Physiologic function
+PROC, montée de sondes double J, Procedure - Therapeutic or Preventive procedure
+PHEN, caractère serré de la sténose, Phenomena - Anatomical abnormality
+PROC, descente de JJ, Procedure - Therapeutic or Preventive procedure
+PHEN, réaggravation en 3 semaines de la fonction rénale, Phenomena - Physiologic function
+PROC, JJ standards, Procedure - Therapeutic or Preventive procedure
+OBJC, sondes JJ trèflées, Object - Medical device
+PHEN, normaliser la créatininémie, Phenomena - Physiologic function
+PHEN, maintenir à 100 mmol/L, Phenomena - Physiologic function
+PHEN, suivi de 3 mois, Phenomena - Human-caused Phenomen or Process

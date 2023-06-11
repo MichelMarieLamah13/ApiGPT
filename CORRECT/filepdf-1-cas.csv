@@ -1,0 +1,50 @@
+entity_group, word, reason
+LIVB, Mr, Living Being - Human
+LIVB, S.A..., Living Being - Human
+LIVB, 50 ans, Living Being - Age group
+DISO, diabétique, Disorder - Acquired Abnormality
+DISO, tuméfaction, Disorder - Anatomical abnormality
+DISO, rougeur, Disorder - Anatomical abnormality
+DISO, empâtement, Disorder - Anatomical abnormality
+DISO, crépitation, Disorder - Anatomical abnormality
+PHEN, fébrile, Phenomenon - Human-caused Phenomen or Process
+PHEN, frissons, Phenomenon - Human-caused Phenomen or Process
+PHEN, glycémie, Phenomenon - Laboratory or test result
+PHEN, jeun, Phenomenon - Laboratory or test result
+PHEN, urée sérique, Phenomenon - Laboratory or test result
+PHEN, créatinine, Phenomenon - Laboratory or test result
+PHEN, hémoglobine, Phenomenon - Laboratory or test result
+PHEN, hématocrite, Phenomenon - Laboratory or test result
+PHEN, examen cytobactériologique, Phenomenon - Laboratory or test result
+PHEN, urines, Phenomenon - Laboratory or test result
+PHEN, acinétobacter, Phenomenon - Laboratory or test result
+PHEN, tomodensitométrie abdominale, Phenomenon - Laboratory or test result
+PHEN, images gazeuses, Phenomenon - Laboratory or test result
+PHEN, paroi abdominale, Phenomenon - Anatomical abnormality
+PHEN, espace périnéphrétique droit, Phenomenon - Anatomical abnormality
+PHEN, rein droit, Phenomenon - Anatomical abnormality
+PHEN, dilatation pyélocalicielle droite, Phenomenon - Anatomical abnormality
+PHEN, calcul, Phenomenon - Anatomical abnormality
+PHEN, jonction pyélourétérale droite, Phenomenon - Anatomical abnormality
+PHEN, radiographie pulmonaire, Phenomenon - Laboratory or test result
+DISO, pyélonéphrite emphysémateuse, Disorder - Disease or syndrome
+PHEN, insuline ordinaire, Phenomenon - Human-caused Phenomen or Process
+CHEM, ceftazidime, Chemical and Drugs - Clinical drug
+CHEM, gentaline, Chemical and Drugs - Clinical drug
+CHEM, métronidazole, Chemical and Drugs - Clinical drug
+PROC, lombotomie, Procedure - Therapeutic or Preventive procedure
+PHEN, pus, Phenomenon - Anatomical abnormality
+PHEN, débridement, Phenomenon - Therapeutic or Preventive procedure
+PROC, toilette, Procedure - Therapeutic or Preventive procedure
+PHEN, remaniements, Phenomenon - Anatomical abnormality
+OBJC, lames de Delbet, Object - Physical Object
+PHEN, incisions de décharges, Phenomenon - Therapeutic or Preventive procedure
+GEOG, paroi thoracique, Geographic Area - Geographic Area
+PHEN, suites, Phenomenon - Therapeutic or Preventive procedure
+PHEN, urographie intraveineuse, Phenomenon - Diagnostic procedure
+PHEN, rein droit muet, Phenomenon - Anatomical abnormality
+PHEN, lithiase, Phenomenon - Anatomical abnormality
+PHEN, J.P.U., Phenomenon - Anatomical abnormality
+PROC, néphrectomie droite, Procedure - Therapeutic or Preventive procedure
+PHEN, échographie, Phenomenon - Diagnostic procedure
+LIVB, diabète, Living Being - Human
